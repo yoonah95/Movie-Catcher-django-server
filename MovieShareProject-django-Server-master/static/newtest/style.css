@@ -1,0 +1,89 @@
+
+ .upload-hidden {
+       margin: 5px;
+      display:inline-block;
+      font-family: 'Nanum Gothic Coding', monospace;
+      font-size : 25px;
+        width:120px;
+        height:40px;
+        border:1px solid #828180;
+        border-radius: 7px;
+        color:#000000;
+        text-align: center;
+        line-height: 40px;
+    }
+    
+
+ .submit {
+        margin: 5px;
+        font-family: 'Nanum Gothic Coding', monospace;
+        display:inline-block;
+        width:260px;
+        height:40px;
+        border:1px solid #828180;
+        border-radius: 7px;
+      font-size:25px;
+        color:#000000;
+        text-align: center;
+        line-height: 40px;
+    }
+
+    input[type='file']{
+        display: none
+    }
+
+    input[type='submit']{
+        display: none
+    }
+    
+    html, body {
+        background-image: url('img1.jpg');
+        background-size: auto;
+       height:100%; 
+       margin:0px; 
+       padding:0px; 
+    }
+
+
+
+
+    .upload-name {
+            padding:5px;
+            border-radius: 5px;
+            border:1px solid #828180;
+            width: 130px;
+            height : 40px;
+    }
+
+    .upload-name1 {
+            padding:5px;
+            border-radius: 5px;
+            border:1px solid #828180;
+            width: 130px;
+            height : 40px;
+    }
+
+
+
+   .main {
+      padding-top:148px;
+   }
+
+    .wrapper{
+          width:100%; 
+          height:100%;
+          background-image: url('img1.jpg');
+          background-position:center;
+    }
+
+    
+    .box {
+       width:270px; 
+      height:350px;
+       background-color: #D5D5D5;
+       opacity: 0.3;
+       margin: 0 auto;
+       padding:45px 44px 38px 44px;
+    }
+
+
